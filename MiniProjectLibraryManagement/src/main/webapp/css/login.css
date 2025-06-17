@@ -1,0 +1,92 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url('../images/bg2.jpg') no-repeat center center fixed;
+    background-size: cover; /* Ensure the image covers the entire background */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-attachment: fixed; /* Make the background image fixed during scrolling */
+    background-position: center; /* Center the image */
+    color: #E8E0CE; /* Light beige for readability */
+}
+
+
+/* Centering the form container */
+form {
+    width: 300px; /* Adjust the width as needed */
+        margin: 0 auto;
+    padding: 30px;
+    background-color: rgba(59, 47, 47, 0.78);
+    border-radius: 8px;
+    box-shadow: 0 5px 10px rgba(10, 10, 10, 7.3);
+    color: #F5E8D1;
+    text-align: left;
+}
+
+h2 {
+    text-align: center; /* Center align the heading */
+    color: #D35400; /* Gold-brown color for the heading */
+    margin-bottom: 20px;
+    font-size: 30px;
+    margin-top: 100px;
+}
+
+label {
+    font-weight: bold;
+    color: #F5E8D1;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 90%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid rgba(140, 110, 79, 0.8); /* Gold-brown border with opacity */
+    border-radius: 4px;
+    background-color: rgba(76, 63, 63, 0.85); /* Dark background with opacity */
+    color: #E8E0CE; /* Light text */
+}
+
+input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: rgba(209, 169, 103, 0.9); /* Gold-brown background with opacity */
+    color: #3B2F2F; /* Dark text */
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #D35400; /* Darker gold on hover */
+}
+
+/* Styling for the New User? text and Register Here link */
+.pdiv {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    font-size: 18px;
+    color: #E8E0CE;
+    justify-content: center;
+}
+
+.pdiv p {
+    margin: 0;
+}
+
+.pdiv a {
+    color: rgba(209, 169, 103, 0.9); /* Gold-brown for the link */
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.pdiv a:hover {
+    color:#D35400; /* Darker gold on hover */
+}
