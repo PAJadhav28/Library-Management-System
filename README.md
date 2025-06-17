@@ -94,14 +94,13 @@ cd book-library-management
 ---
 
 - Output
-- <img src = "output screenshots/s6.png" alt = "1 image"> 
-- <img src = "output screenshots/s7.png" alt = "2 image"> 
-- <img src = "output screenshots/s8.png" alt = "3 image"> 
-- <img src = "output screenshots/s5.png" alt = "4 image"> 
-- <img src = "output screenshots/s4.png" alt = "5 image"> 
-- <img src = "output screenshots/s3.png" alt = "6 image"> 
-- <img src = "output screenshots/s2.png" alt = "7 image"> 
-- <img src = "output screenshots/s1.png" alt = "8 image"> 
+- <img src = "https://github.com/PAJadhav28/Library-Management-System/blob/main/Output%20Screenshot/localhost_8082_MiniProjectLibraryManagement_BookIssueServlet.png" alt = "1 image"> 
+- <img src = "https://github.com/PAJadhav28/Library-Management-System/blob/main/Output%20Screenshot/localhost_8082_MiniProjectLibraryManagement_BookServlet.png" alt = "2 image"> 
+- <img src = "https://github.com/PAJadhav28/Library-Management-System/blob/main/Output%20Screenshot/localhost_8082_MiniProjectLibraryManagement_BookServlet1.png" alt = "3 image"> 
+- <img src = "https://github.com/PAJadhav28/Library-Management-System/blob/main/Output%20Screenshot/localhost_8082_MiniProjectLibraryManagement_MemberDetails_option%3Did%26option%3Dname%26option%3Dimg%26action%3Dhiddencheck%26check%3Dcheck.png" alt = "4 image"> 
+- <img src = "https://github.com/PAJadhav28/Library-Management-System/blob/main/Output%20Screenshot/localhost_8082_MiniProjectLibraryManagement_UserDetails_id%3D10.png" alt = "5 image"> 
+- <img src = "https://github.com/PAJadhav28/Library-Management-System/blob/main/Output%20Screenshot/localhost_8082_MiniProjectLibraryManagement_UserServlet.png" alt = "6 image"> 
+- <img src = "https://github.com/PAJadhav28/Library-Management-System/blob/main/Output%20Screenshot/localhost_8082_MiniProjectLibraryManagement_user.png" alt = "7 image"> 
 
 
 ## Usage  
